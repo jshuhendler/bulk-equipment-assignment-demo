@@ -2,7 +2,7 @@
 
 A standalone interactive simulation demonstrating a browser-based laboratory workflow automation tool developed by **Jonathan Shuhendler**.
 
-**[Try the live demo](https://jshuhendler.github.io/bulk-equipment-assignment-demo/)** (available after GitHub Pages is enabled).
+**[Try the live demo](https://jshuhendler.github.io/bulk-equipment-assignment-demo/)** 
 
 ## Problem
 
