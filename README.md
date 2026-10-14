@@ -1,0 +1,1 @@
+# bulk-equipment-assignment-demo
